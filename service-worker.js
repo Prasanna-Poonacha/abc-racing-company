@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/abc-racing-company/precache-manifest.6503e5f94ae8e5c985ddac3cf6e48489.js"
+  "/abc-racing-company/precache-manifest.cd6ad97d554cd2c158e67c3f5c2d665d.js"
 );
 
 self.addEventListener('message', (event) => {

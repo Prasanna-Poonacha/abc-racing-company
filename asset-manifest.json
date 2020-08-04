@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b7424d3.chunk.css",
+    "main.css": "/static/css/main.7016041c.chunk.css",
     "main.js": "/static/js/main.aec6327a.chunk.js",
     "main.js.map": "/static/js/main.aec6327a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.abc60828.js",
@@ -8,9 +8,9 @@
     "static/js/2.1d7fccfe.chunk.js": "/static/js/2.1d7fccfe.chunk.js",
     "static/js/2.1d7fccfe.chunk.js.map": "/static/js/2.1d7fccfe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d715e28b889b4a89e52335cced0c167c.js": "/precache-manifest.d715e28b889b4a89e52335cced0c167c.js",
+    "precache-manifest.9cd58d5af1a943dbb52f97bf85b6c346.js": "/precache-manifest.9cd58d5af1a943dbb52f97bf85b6c346.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0b7424d3.chunk.css.map": "/static/css/main.0b7424d3.chunk.css.map",
+    "static/css/main.7016041c.chunk.css.map": "/static/css/main.7016041c.chunk.css.map",
     "static/js/2.1d7fccfe.chunk.js.LICENSE.txt": "/static/js/2.1d7fccfe.chunk.js.LICENSE.txt",
     "static/media/70th_Anniversary_Grand_Prix.png": "/static/media/70th_Anniversary_Grand_Prix.f25ed7f3.png",
     "static/media/Belgian_Grand_Prix.png": "/static/media/Belgian_Grand_Prix.d25eac98.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.abc60828.js",
     "static/js/2.1d7fccfe.chunk.js",
-    "static/css/main.0b7424d3.chunk.css",
+    "static/css/main.7016041c.chunk.css",
     "static/js/main.aec6327a.chunk.js"
   ]
 }

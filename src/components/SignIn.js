@@ -6,7 +6,7 @@ export const SignIn = () => {
     <Fragment>
         <section id="contact" class="form-container">
           <h3>Sign In</h3>
-          <p class="leading">Lorem ipsum dolor sit amet, consectetur.</p>
+          <p class="leading">Get started</p>
           <form>
             <input type="text" placeholder="NAME" />
             <input type="email" placeholder="EMAIL" />

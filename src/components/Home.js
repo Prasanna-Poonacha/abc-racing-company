@@ -13,7 +13,7 @@ export const Home = () => {
           <p class="leading">
             It is up to you whether you move fast or you stay last.
           </p>
-          <Link to="/schedules">
+          <Link to="/abc-racing-company/schedules">
             <a href="#!" class="button">
               Schedules
             </a>

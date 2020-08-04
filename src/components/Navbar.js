@@ -8,19 +8,19 @@ export const Navbar = () => {
         <h1><Link to="/abc-racing-company">ABC Racing Company</Link></h1>
         <ul>
           <li>
-            <Link to="/schedules">Schedules</Link>
+            <Link to="/abc-racing-company/schedules">Schedules</Link>
           </li>
           <li>
-            <Link to="/racers">Top 3</Link>
+            <Link to="/abc-racing-company/racers">Top 3</Link>
           </li>
           <li>
-            <Link to="/gallery">Gallery</Link>
+            <Link to="/abc-racing-company/gallery">Gallery</Link>
           </li>
           <li>
-            <Link to="/signin">Sign In</Link>
+            <Link to="/abc-racing-company/signin">Sign In</Link>
           </li>
           <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/abc-racing-company/contact">Contact</Link>
           </li>
         </ul>
       </nav>

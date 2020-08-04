@@ -17,13 +17,13 @@ function App() {
         <Navbar />
         <div>
           <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/schedules" component={Schedules} />
-            <Route exact path="/racers" component={Racers} />
-            <Route exact path="/signin" component={SignIn} />
-            <Route exact path="/signup" component={SignUp} />
-            <Route exact path="/gallery" component={Gallery} />
-            <Route exact path="/contact" component={ContactUs} />
+            <Route exact path="/abc-racing-company" component={Home} />
+            <Route exact path="/abc-racing-company/schedules" component={Schedules} />
+            <Route exact path="/abc-racing-company/racers" component={Racers} />
+            <Route exact path="/abc-racing-company/signin" component={SignIn} />
+            <Route exact path="/abc-racing-company/signup" component={SignUp} />
+            <Route exact path="/abc-racing-company/gallery" component={Gallery} />
+            <Route exact path="/abc-racing-company/contact" component={ContactUs} />
             {/* <Home />
             <Racers />
             <Schedules />

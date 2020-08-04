@@ -11,7 +11,7 @@ export const SignIn = () => {
             <input type="text" placeholder="NAME" />
             <input type="email" placeholder="EMAIL" />
             <button class="button">Sign In</button> &nbsp;&nbsp;
-            <Link to="/signup"><button class="button">Register with Us</button></Link>
+            <Link to="/abc-racing-company/signup"><button class="button">Register with Us</button></Link>
           </form>
         </section>
     </Fragment>

@@ -5,7 +5,7 @@ export const Navbar = () => {
   return (
     <Fragment>
       <nav class="site-nav grid">
-        <h1><Link to="/">ABC Racing Company</Link></h1>
+        <h1><Link to="/abc-racing-company">ABC Racing Company</Link></h1>
         <ul>
           <li>
             <Link to="/schedules">Schedules</Link>
